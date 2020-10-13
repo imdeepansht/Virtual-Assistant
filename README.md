@@ -11,7 +11,9 @@ pip install speechRecognition
 pip install wikipedia
 Other modules could already be installed in your computer and if they're not, you always have the internet.
 
-You can make changes in the code and make your own Virtual Assistant
+You can make changes in the code and make your own Virtual Assistant.
+
+Thank You!
 
 
 
