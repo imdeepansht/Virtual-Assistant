@@ -12,7 +12,7 @@ pip install speechRecognition,
 speechRecognition takes your voice as input.
 
 pip install wikipedia,
-wikipedia module will takes information and tells it to you
+wikipedia module will take the information from the web and tells it to you
 
 Other modules could already be installed in your computer and if they're not, you always have the internet.
 You can make changes in the code according to your needs and upgrade your own Virtual Assistant.
