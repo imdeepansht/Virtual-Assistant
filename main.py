@@ -42,7 +42,7 @@ def takeCommand():
         print("Listening...")
         r.pause_threshold = 1
         audio = r.listen(source)
-        print("hello")
+        
 
     try:
         print("Recognizing...")    
